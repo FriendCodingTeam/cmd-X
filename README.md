@@ -1,7 +1,6 @@
 # cmd-X
 
 cmd-X is an easy-to-use command prompt made in Python.
-(.EXE version will be available in the future.)
 
 ## Installation
 
